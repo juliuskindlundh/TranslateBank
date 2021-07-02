@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TranslateBank</string>
+    <string name="to_saved_btn">Saved</string>
+    <string name="to_translate_btn">New translation</string>
+    <string name="record_btn">Press to input text</string>
+    <string name="reset_btn">Reset</string>
+    <string name="save_btn">Save</string>
+</resources>
